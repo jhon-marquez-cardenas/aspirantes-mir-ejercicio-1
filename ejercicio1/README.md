@@ -21,3 +21,9 @@ $git config –global user.email john.marquez.cardenas@alumnos.upm.es
 8) $ cd ..
 $ git init
 Initialized empty Git repository in C:/Users/Usuario/Desktop/ejercicios/.git/
+
+9)$ git add .
+$ git commit -m "Versión Inicial"
+[master (root-commit) 51b8a07] Versión Inicial
+ 1 file changed, 23 insertions(+)
+ create mode 100644 ejercicio1/README.md
